@@ -1,4 +1,50 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Afterthoughts added.
+Night Operator added.
+Bouncer added.
+Street Hustler added.
+Depersonalization Disorder added.
+Seeds of Violence added.
+Prospector added.
+Broker added.
+Mimekit, Scraplord added.
+
+
+Miss Anchor, Humanity's Truth
+rules_text: Haste
+Whenever an opponent casts their first spell, untap Miss Anchor.
+{T}: Add {R}. => Haste
+Whenever an opponent casts their first spell each turn, untap Miss Anchor.
+{T}: Add {R}.
+
+Salaryman
+rules_text: Lifelink
+Whenever you prosper, draw a card. => Lifelink
+Whenever you prosper, draw a card. [i](You prosper when you cast a spell whose Prosperity condition is met.)[/i]
+
+Mob
+rules_text: This spell costs {1} less to cast for each land card in graveyards.
+Menace, trample => This spell costs {1} less to cast for each land card in all graveyards.
+Menace, trample
+
+Reckless Impulse
+flavor_text: [i]“If we don't make it this time, our journey ends here.”[/i] => [i]“If we don't make it in this time, our journey ends here.”[/i]
+
+Bright Cold Day
+artist:  => Lori McNee
+
+
+cost: {1}{W} => {2}{B}
+rules_text: Each opponent draws a card, then you draw two cards. If this spell was cast from a graveyard, you gain 2 life.
+Flashback {2}{W} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Choose one —
+• Return target creature card from your graveyard to hand.
+• Draw two cards. You lose 2 life.
+artist: Edmund Blair Leighton => 
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
