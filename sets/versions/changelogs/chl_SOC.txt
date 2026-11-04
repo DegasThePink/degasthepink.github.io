@@ -1,4 +1,62 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Night Watchman added.
+Asset Valuation added.
+Justice Prevailed added.
+Mister Trick, Bending the Rules added.
+Transgenerational Trauma added.
+[OFF] Professional Critic added.
+Newcomer added.
+B-Collect added.
+Rot Converter added.
+The Society's Contract added.
+Medical Assistant added.
+No Waste Policy added.
+Disenchant added.
+Vigilante added.
+Rot Army added.
+
+Night Operator removed.
+
+Market Research
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+I — This saga gains “Creatures you control have haste” for as long as you control this saga.
+II — Discard any number of cards, then draw that many cards.
+III — Each player creates a tapped Treasure token. This saga deals 1 damage to each opponent for each artifact they control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — This saga gains “Creatures you control have haste” for as long as you control this saga.
+II — Discard any number of cards, then draw that many cards.
+III — Each player creates a tapped Treasure token. This saga deals 1 damage to each opponent for each artifact they control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+I — This saga gains “Creatures you control have haste” for as long as you control this saga.
+II — Discard any number of cards, then draw that many cards.
+III — Each player creates a tapped Treasure token. This saga deals 1 damage to each opponent for each artifact they control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — This saga gains “Creatures you control have haste” for as long as you control this saga.
+II — Discard any number of cards, then draw that many cards.
+III — Each player creates a tapped Treasure token. This saga deals 1 damage to each opponent for each artifact they control.
+
+We Live in a Society
+artist:  => Cierra Pride
+
+Trading Salon
+flavor_text: [i][/i] => [i]Business, gossip and influence moved freely from one dance to the next.[/i]
+artist:  => Victor Gabriel Gilbert
+
+Velvet Club
+flavor_text: [i][/i] => [i]Behind these walls, the Society's rules cease to exist. News from outside circulates freely, modern technology is permitted, and few questions are asked.[/i]
+artist:  => Frank Street
+
+Suburb Factory
+flavor_text: [i][/i] => [i]One of the Society's founding principles was a return to less aggressive methods of resource extraction. Some brought connections with them. Others were simply placed where they were needed.[/i]
+
+Remediation Crew
+artist:  => Paul Renouard
+
+Bouncer
+type: Creature — Human ? => Creature — Human Citizen
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Afterthoughts added.

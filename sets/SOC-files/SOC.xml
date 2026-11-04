@@ -5,7 +5,7 @@
 			<name>SOC</name>
 			<longname>The Society</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-11-02</releasedate>
+			<releasedate>2026-11-04</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -13,7 +13,7 @@
 			<name>Social Contract</name>
 			<text>Each opponent draws a card, then you draw two cards. If this spell was cast from a graveyard, you gain 2 life.
 Flashback {2}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/0.png" num="15">SOC</set>
+			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/0.png" num="17">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -30,7 +30,7 @@ Flashback {2}{W} (You may cast this card from your graveyard for its flashback c
 			<name>We Made a Sequel</name>
 			<text>Prosperity — Create a token that&apos;s a copy of target creature you control. It&apos;s a 1/1 unless you control a creature, an artifact, and an enchantment.
 Flashback 4{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/1.png" num="29">SOC</set>
+			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/1.png" num="32">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -48,7 +48,7 @@ Flashback 4{U} (You may cast this card from your graveyard for its flashback cos
 			<text>Whenever another nontoken creature you control dies, choose up to one — 
 • Exile that card. If you do, draw a card.
 • Return that card to its owner&apos;s hand at the beginning of the next end step. When you do, its owner loses 3 life.</text>
-			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/2.png" num="34">SOC</set>
+			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/2.png" num="39">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -65,7 +65,7 @@ Flashback 4{U} (You may cast this card from your graveyard for its flashback cos
 		<card>
 			<name>Social Pressure</name>
 			<text>Each player must attack with at least one creature each combat if able.</text>
-			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/3.png" num="39">SOC</set>
+			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/3.png" num="45">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -80,11 +80,11 @@ Flashback 4{U} (You may cast this card from your graveyard for its flashback cos
 		</card>
 		<card>
 			<name>Market Research</name>
-			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — This saga gains &quot;Creatures you control have haste&quot; for as long as you control this saga.
 II — Discard any number of cards, then draw that many cards.
 III — Each player creates a tapped Treasure token. This saga deals 1 damage to each opponent for each artifact they control.</text>
-			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/4.png" num="47">SOC</set>
+			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/4.png" num="54">SOC</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -100,7 +100,7 @@ III — Each player creates a tapped Treasure token. This saga deals 1 damage to
 		<card>
 			<name>Build a Community</name>
 			<text>Creatures you control get +1/+1 for each creature that entered under your control this turn.</text>
-			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/5.png" num="52">SOC</set>
+			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/5.png" num="61">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -116,7 +116,7 @@ III — Each player creates a tapped Treasure token. This saga deals 1 damage to
 		<card>
 			<name>Social Services</name>
 			<text>Prosperity — Whenever a land enters under your control, you may create your choice of a Treasure or Food token. If you control a creature, an artifact, and an enchantment, create both instead.</text>
-			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/6.png" num="59">SOC</set>
+			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/6.png" num="69">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -132,7 +132,7 @@ III — Each player creates a tapped Treasure token. This saga deals 1 damage to
 		<card>
 			<name>Ecologist</name>
 			<text>Whenever a land card is put into a graveyard from anywhere, Ecologist deals 1 damage to each opponent.</text>
-			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/7.png" num="68">SOC</set>
+			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/7.png" num="78">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -151,7 +151,7 @@ III — Each player creates a tapped Treasure token. This saga deals 1 damage to
 			<text>Vigilance
 When Mister Workwell enters, create a Treasure token.
 {T}, Sacrifice a Treasure token: Copy target activated or triggered ability you control. You may choose new targets for the copy.</text>
-			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/8.png" num="75">SOC</set>
+			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/8.png" num="85">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -170,7 +170,7 @@ When Mister Workwell enters, create a Treasure token.
 			<text>Whenever another creature you control dies, you may choose one — 
 • You gain 2 life.
 • Target opponent loses 2 life.</text>
-			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/9.png" num="77">SOC</set>
+			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/9.png" num="87">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -189,7 +189,7 @@ When Mister Workwell enters, create a Treasure token.
 			<text>When Antisocial enters, choose one —
 • Antisocial deals 2 damage to target creature.
 • Destroy target artifact.</text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/10.png" num="41">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/10.png" num="48">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -207,7 +207,7 @@ When Mister Workwell enters, create a Treasure token.
 			<name>Independent Hacker</name>
 			<text>Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
 Artifacts your opponents control have &quot;At the beginning of your upkeep, sacrifice this artifact unless you pay 2 life.&quot;</text>
-			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/11.png" num="71">SOC</set>
+			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/11.png" num="81">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -225,7 +225,7 @@ Artifacts your opponents control have &quot;At the beginning of your upkeep, sac
 			<name>Life Coach</name>
 			<text>Vigilance
 At the beginning of combat on your turn, another target creature you control gets +1/+0 and gains first strike until end of turn.</text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/12.png" num="9">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/12.png" num="11">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -243,7 +243,7 @@ At the beginning of combat on your turn, another target creature you control get
 			<name>Influencer</name>
 			<text>Skulk (This creature can&apos;t be blocked by creatures with greater power.)
 At the beginning of each end step, if a token entered the battlefield under an opponent&apos;s control this turn, create a token that is a copy of Influencer.</text>
-			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/13.png" num="19">SOC</set>
+			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/13.png" num="22">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -260,7 +260,7 @@ At the beginning of each end step, if a token entered the battlefield under an o
 		<card>
 			<name>The Show Must Go On</name>
 			<text>Return all creature cards from all graveyards to the battlefield tapped under their owners&apos; control. Each creature returned this way gains &quot;At the beginning of your upkeep, you lose 2 life.&quot;</text>
-			<set rarity="mythic" picurl="https://degasthepink.github.io/sets/SOC-files/img/14.png" num="38">SOC</set>
+			<set rarity="mythic" picurl="https://degasthepink.github.io/sets/SOC-files/img/14.png" num="44">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -277,7 +277,7 @@ At the beginning of each end step, if a token entered the battlefield under an o
 			<name>Social Engineering</name>
 			<text>Prosperity — This spell costs {2} less to cast if you control a creature, an artifact, and an enchantment.
 Change the target of target spell or ability with a single target.</text>
-			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/15.png" num="25">SOC</set>
+			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/15.png" num="28">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -293,7 +293,7 @@ Change the target of target spell or ability with a single target.</text>
 		<card>
 			<name>Global Warming</name>
 			<text>Lands you control have &quot;{T}, Sacrifice this land: Add {R}{R}. You lose 2 life.&quot;</text>
-			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/16.png" num="46">SOC</set>
+			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/16.png" num="53">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -309,7 +309,7 @@ Change the target of target spell or ability with a single target.</text>
 		<card>
 			<name>Forest</name>
 			<text></text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/17.png" num="94">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/17.png" num="106">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -324,7 +324,7 @@ Change the target of target spell or ability with a single target.</text>
 		<card>
 			<name>Island</name>
 			<text></text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/18.png" num="91">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/18.png" num="103">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -339,7 +339,7 @@ Change the target of target spell or ability with a single target.</text>
 		<card>
 			<name>Mountain</name>
 			<text></text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/19.png" num="93">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/19.png" num="105">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -354,7 +354,7 @@ Change the target of target spell or ability with a single target.</text>
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/20.png" num="90">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/20.png" num="102">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -369,7 +369,7 @@ Change the target of target spell or ability with a single target.</text>
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/21.png" num="92">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/21.png" num="104">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -400,7 +400,7 @@ Change the target of target spell or ability with a single target.</text>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)
 I, II, IV, V — Draw a card, then discard a card.
 III — Draw a card, then discard a card. Investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
-			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/23.png" num="22">SOC</set>
+			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/23.png" num="25">SOC</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -416,7 +416,7 @@ III — Draw a card, then discard a card. Investigate. (Create a Clue token. It&
 		<card>
 			<name>Food for Thought</name>
 			<text>Create a Food token. Draw a card.</text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/24.png" num="55">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/24.png" num="64">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -446,7 +446,7 @@ III — Draw a card, then discard a card. Investigate. (Create a Clue token. It&
 		<card>
 			<name>Casual Intimidation</name>
 			<text>Target creature gets -2/-0 until your next turn. Its controller discards a card.</text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/26.png" num="32">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/26.png" num="36">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -462,7 +462,7 @@ III — Draw a card, then discard a card. Investigate. (Create a Clue token. It&
 		<card>
 			<name>We Live in a Society</name>
 			<text></text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/27.png" num="5">SOC</set>
+			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/27.png" num="5">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -478,7 +478,7 @@ III — Draw a card, then discard a card. Investigate. (Create a Clue token. It&
 			<text>Haste
 Whenever an opponent casts their first spell each turn, untap Miss Anchor.
 {T}: Add {R}.</text>
-			<set rarity="mythic" picurl="https://degasthepink.github.io/sets/SOC-files/img/28.png" num="48">SOC</set>
+			<set rarity="mythic" picurl="https://degasthepink.github.io/sets/SOC-files/img/28.png" num="55">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -497,7 +497,7 @@ Whenever an opponent casts their first spell each turn, untap Miss Anchor.
 			<text>Prosperity — If you control a creature, an artifact, and an enchantment, other creatures you control have ward—Pay 3 life (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)
 Sacrifice a creature: You gain 1 life and each opponent loses 1 life.
 Sacrifice an artifact: You lose 1 life and draw a card.</text>
-			<set rarity="mythic" picurl="https://degasthepink.github.io/sets/SOC-files/img/29.png" num="35">SOC</set>
+			<set rarity="mythic" picurl="https://degasthepink.github.io/sets/SOC-files/img/29.png" num="40">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -515,7 +515,7 @@ Sacrifice an artifact: You lose 1 life and draw a card.</text>
 			<name>The Youths, Humanity&apos;s Future</name>
 			<text>Prosperity — At the beginning of your end step, if you control a creature, an artifact, and an enchantment, search your library for a Forest card, put it onto the battlefield tapped, then shuffle.
 The Youths&apos; power and toughness are each equal to the number of lands you control.</text>
-			<set rarity="mythic" picurl="https://degasthepink.github.io/sets/SOC-files/img/30.png" num="63">SOC</set>
+			<set rarity="mythic" picurl="https://degasthepink.github.io/sets/SOC-files/img/30.png" num="73">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -532,7 +532,7 @@ The Youths&apos; power and toughness are each equal to the number of lands you c
 		<card>
 			<name>Mister Rich, Humanity&apos;s Power</name>
 			<text>Whenever you cast your first noncreature spell each turn, copy it, except it isn&apos;t legendary if the spell is legendary.</text>
-			<set rarity="mythic" picurl="https://degasthepink.github.io/sets/SOC-files/img/31.png" num="21">SOC</set>
+			<set rarity="mythic" picurl="https://degasthepink.github.io/sets/SOC-files/img/31.png" num="24">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -550,7 +550,7 @@ The Youths&apos; power and toughness are each equal to the number of lands you c
 			<name>For Your Contribution</name>
 			<text>Return target creature to its owner&apos;s hand. Create a Treasure token.
 Draw a card.</text>
-			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/32.png" num="70">SOC</set>
+			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/32.png" num="80">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -567,7 +567,7 @@ Draw a card.</text>
 			<name>Soul Kitchen</name>
 			<text>This land enters tapped.
 {T}: Add {G} or {W}.</text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/33.png" num="84">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/33.png" num="96">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -583,7 +583,7 @@ Draw a card.</text>
 			<name>Central Park</name>
 			<text>This land enters tapped.
 {T}: Add {G} or {U}.</text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/34.png" num="80">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/34.png" num="92">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -599,7 +599,7 @@ Draw a card.</text>
 			<name>Community College</name>
 			<text>This land enters tapped.
 {T}: Add {W} or {U}.</text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/35.png" num="81">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/35.png" num="93">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -615,7 +615,7 @@ Draw a card.</text>
 			<name>Old Courthouse</name>
 			<text>This land enters tapped.
 {T}: Add {W} or {B}.</text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/36.png" num="83">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/36.png" num="95">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -631,7 +631,7 @@ Draw a card.</text>
 			<name>Trading Salon</name>
 			<text>This land enters tapped.
 {T}: Add {U} or {R}.</text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/37.png" num="86">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/37.png" num="98">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -647,7 +647,7 @@ Draw a card.</text>
 			<name>Undercity Tunnels</name>
 			<text>This land enters tapped.
 {T}: Add {U} or {B}.</text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/38.png" num="87">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/38.png" num="99">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -663,7 +663,7 @@ Draw a card.</text>
 			<name>Logging Site</name>
 			<text>This land enters tapped.
 {T}: Add {R} or {G}.</text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/39.png" num="82">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/39.png" num="94">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -679,7 +679,7 @@ Draw a card.</text>
 			<name>Brownfield Garden</name>
 			<text>This land enters tapped.
 {T}: Add {B} or {G}.</text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/40.png" num="79">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/40.png" num="91">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -695,7 +695,7 @@ Draw a card.</text>
 			<name>Velvet Club</name>
 			<text>This land enters tapped.
 {T}: Add {B} or {R}.</text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/41.png" num="88">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/41.png" num="100">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -711,7 +711,7 @@ Draw a card.</text>
 			<name>Suburb Factory</name>
 			<text>This land enters tapped.
 {T}: Add {R} or {W}.</text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/42.png" num="85">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/42.png" num="97">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -727,7 +727,7 @@ Draw a card.</text>
 			<name>Mister Famous, Humanity&apos;s Favorite</name>
 			<text>Whenever you sacrifice a Food for the first time each turn, create a Food token.
 Activated abilities of Foods you control cost {1} less to activate.</text>
-			<set rarity="mythic" picurl="https://degasthepink.github.io/sets/SOC-files/img/43.png" num="10">SOC</set>
+			<set rarity="mythic" picurl="https://degasthepink.github.io/sets/SOC-files/img/43.png" num="12">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -748,7 +748,7 @@ Activated abilities of Foods you control cost {1} less to activate.</text>
 • Destroy target enchantment.
 • Exile target card from a graveyard.
 • You gain 4 life.</text>
-			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/44.png" num="13">SOC</set>
+			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/44.png" num="15">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -765,7 +765,7 @@ Activated abilities of Foods you control cost {1} less to activate.</text>
 		<card>
 			<name>Picket Captains</name>
 			<text>As long as it&apos;s your turn, Picket Captains has first strike.</text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/45.png" num="50">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/45.png" num="58">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -798,7 +798,7 @@ Activated abilities of Foods you control cost {1} less to activate.</text>
 			<text>As an additional cost to cast this spell, tap any number of untapped creatures you control.
 Create a tapped 1/1 white Human creature token for each creature tapped this way.
 Flashback {3}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/47.png" num="7">SOC</set>
+			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/47.png" num="8">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -814,7 +814,7 @@ Flashback {3}{W}{W} (You may cast this card from your graveyard for its flashbac
 		<card>
 			<name>Find Out</name>
 			<text>Destroy target land. Creatures can&apos;t block this turn.</text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/48.png" num="45">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/48.png" num="52">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -830,7 +830,7 @@ Flashback {3}{W}{W} (You may cast this card from your graveyard for its flashbac
 		<card>
 			<name>Arsonist</name>
 			<text>Whenever you cast your first spell each turn, add {R}{R}.</text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/49.png" num="42">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/49.png" num="49">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -847,7 +847,7 @@ Flashback {3}{W}{W} (You may cast this card from your graveyard for its flashbac
 		<card>
 			<name>Southfarthing Farmer</name>
 			<text>Prosperity — {T}: Add {G}. If you control a creature, an artifact, and an enchantment, you gain 1 life.</text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/50.png" num="60">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/50.png" num="70">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -864,7 +864,7 @@ Flashback {3}{W}{W} (You may cast this card from your graveyard for its flashbac
 		<card>
 			<name>Northfarthing Farmer</name>
 			<text>Landfall — Whenever a land enters under your control, you may create a 3/3 green Ox creature token with &quot;When this creature dies, create a Food token.&quot;</text>
-			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/51.png" num="58">SOC</set>
+			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/51.png" num="67">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -881,7 +881,7 @@ Flashback {3}{W}{W} (You may cast this card from your graveyard for its flashbac
 		<card>
 			<name>Industrial Refinement</name>
 			<text>Mill four cards. Then you may return a permanent card milled this way to your hand.</text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/52.png" num="56">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/52.png" num="65">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -928,7 +928,7 @@ Flashback {3}{W}{W} (You may cast this card from your graveyard for its flashbac
 			<name>E-Collect, Groundkeeper</name>
 			<text>Land cards being put into your graveyard from anywhere cause abilities of permanents you control to trigger as though they entered the battlefield.
 You may play lands from your graveyard.</text>
-			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/55.png" num="67">SOC</set>
+			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/55.png" num="77">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -945,7 +945,7 @@ You may play lands from your graveyard.</text>
 		<card>
 			<name>Urbanist</name>
 			<text>When this creature enters, return target permanent card from your graveyard to your hand. If that card is a land card, you may put it onto the battlefield tapped instead.</text>
-			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/56.png" num="78">SOC</set>
+			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/56.png" num="88">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -962,7 +962,7 @@ You may play lands from your graveyard.</text>
 		<card>
 			<name>Field Hound</name>
 			<text>Landfall — Whenever a land you control enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/57.png" num="54">SOC</set>
+			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/57.png" num="63">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -980,7 +980,7 @@ You may play lands from your graveyard.</text>
 			<name>Fixer</name>
 			<text>Ward—Pay 3 life (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)
 Whenever you exile one or more cards from anywhere, target opponent loses 1 life.</text>
-			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/58.png" num="69">SOC</set>
+			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/58.png" num="79">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -997,7 +997,7 @@ Whenever you exile one or more cards from anywhere, target opponent loses 1 life
 		<card>
 			<name>Crew Foreman</name>
 			<text>Whenever this creature attacks, attacking creatures you control get +1/+0 for each other attacking creature until end of turn.</text>
-			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/59.png" num="65">SOC</set>
+			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/59.png" num="75">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1015,7 +1015,7 @@ Whenever you exile one or more cards from anywhere, target opponent loses 1 life
 			<name>Curator</name>
 			<text>Trample
 Curator gets +1/+1 for each differently named token you control.</text>
-			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/60.png" num="66">SOC</set>
+			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/60.png" num="76">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1033,7 +1033,7 @@ Curator gets +1/+1 for each differently named token you control.</text>
 			<name>Surveillance Bird</name>
 			<text>Flying
 When this creature enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/61.png" num="27">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/61.png" num="30">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1051,7 +1051,7 @@ When this creature enters, surveil 1. (Look at the top card of your library. You
 			<name>Clerk</name>
 			<text>When Clerk enters, you may return an artifact or enchantment card with mana value 3 or less from your graveyard to your hand.
 Prosperity — As long as you control a creature, an artifact, and an enchantment, other creatures you control get +1/+1.</text>
-			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/62.png" num="64">SOC</set>
+			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/62.png" num="74">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1069,7 +1069,7 @@ Prosperity — As long as you control a creature, an artifact, and an enchantmen
 			<name>Salaryman</name>
 			<text>Lifelink
 Whenever you prosper, draw a card. (You prosper when you cast a spell whose Prosperity condition is met.)</text>
-			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/63.png" num="14">SOC</set>
+			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/63.png" num="16">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1087,7 +1087,7 @@ Whenever you prosper, draw a card. (You prosper when you cast a spell whose Pros
 			<name>Mister Reel, True Man</name>
 			<text>Shroud (This creature can&apos;t be the target of spells or abilities.)
 {0}: Regenerate Mister Reel (The next time this creature would be destroyed this turn, it isn&apos;t. Instead tap it, remove all damage from it, and remove it from combat.)</text>
-			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/64.png" num="11">SOC</set>
+			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/64.png" num="13">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1104,7 +1104,7 @@ Whenever you prosper, draw a card. (You prosper when you cast a spell whose Pros
 		<card>
 			<name>Moral Crusader</name>
 			<text>When Moral Crusader enters, it fights another target creature.</text>
-			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/65.png" num="57">SOC</set>
+			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/65.png" num="66">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1121,7 +1121,7 @@ Whenever you prosper, draw a card. (You prosper when you cast a spell whose Pros
 		<card>
 			<name>Specimen #87</name>
 			<text>Deathtouch</text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/66.png" num="61">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/66.png" num="71">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1139,7 +1139,7 @@ Whenever you prosper, draw a card. (You prosper when you cast a spell whose Pros
 			<name>Embedded Saboteur</name>
 			<text>Menace
 Whenever this creature deals combat damage to a player, that player creates a 0/1 colorless Bug Construct artifact creature token with &quot;This token can&apos;t block&quot; and &quot;At the beginning of your upkeep, you lose 1 life.&quot;</text>
-			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/67.png" num="33">SOC</set>
+			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/67.png" num="37">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1157,7 +1157,7 @@ Whenever this creature deals combat damage to a player, that player creates a 0/
 			<name>Idol</name>
 			<text>Other creatures you control get +1/+1.
 When Idol dies, if it was a creature, players skip their next combat phase. Return it to the battlefield under its owner&apos;s control. It&apos;s an enchantment.</text>
-			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/68.png" num="8">SOC</set>
+			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/68.png" num="9">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1175,7 +1175,7 @@ When Idol dies, if it was a creature, players skip their next combat phase. Retu
 			<name>Undercover Investigator</name>
 			<text>Vigilance
 Whenever a creature you don&apos;t control enters for the first time each turn, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
-			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/69.png" num="28">SOC</set>
+			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/69.png" num="31">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1193,7 +1193,7 @@ Whenever a creature you don&apos;t control enters for the first time each turn, 
 			<name>Miss Guidance, Preparing Tomorrow</name>
 			<text>At the beginning of combat on your turn, you may create a blue Aura enchantment token named Teachings attached to target creature. It has enchant creature and &quot;Enchanted creature has base power and toughness 3/3.&quot;
 Sacrifice Miss Guidance: Creatures you control with base power or toughness 3 phase out.</text>
-			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/70.png" num="20">SOC</set>
+			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/70.png" num="23">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1210,7 +1210,7 @@ Sacrifice Miss Guidance: Creatures you control with base power or toughness 3 ph
 		<card>
 			<name>Veterinarian</name>
 			<text>Whenever a nontoken non-Human creature you control enters, create a Healthy token attached to that creature. (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)</text>
-			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/71.png" num="62">SOC</set>
+			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/71.png" num="72">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1227,7 +1227,7 @@ Sacrifice Miss Guidance: Creatures you control with base power or toughness 3 ph
 		<card>
 			<name>Reporter</name>
 			<text>If a triggered ability you control would trigger because an event happened for the first or second time this turn, it triggers an additional time.</text>
-			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/72.png" num="76">SOC</set>
+			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/72.png" num="86">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1244,7 +1244,7 @@ Sacrifice Miss Guidance: Creatures you control with base power or toughness 3 ph
 		<card>
 			<name>Propaganda</name>
 			<text>Creatures can&apos;t attack you unless their controller pays {2} for each creature they control that&apos;s attacking you.</text>
-			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/73.png" num="24">SOC</set>
+			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/73.png" num="27">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1260,7 +1260,7 @@ Sacrifice Miss Guidance: Creatures you control with base power or toughness 3 ph
 		<card>
 			<name>Inspector</name>
 			<text>When Inspector or another Soldier you control enters, tap target creature an opponent controls.</text>
-			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/74.png" num="72">SOC</set>
+			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/74.png" num="82">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1277,7 +1277,7 @@ Sacrifice Miss Guidance: Creatures you control with base power or toughness 3 ph
 		<card>
 			<name>Recruiter</name>
 			<text>When this creature enters, create a 1/1 white Human Soldier creature token.</text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/75.png" num="12">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/75.png" num="14">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1312,7 +1312,7 @@ Sacrifice Miss Guidance: Creatures you control with base power or toughness 3 ph
 		<card>
 			<name>Food SOC</name>
 			<text>{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/77.png" num="7">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/77.png" num="8">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1327,7 +1327,7 @@ Sacrifice Miss Guidance: Creatures you control with base power or toughness 3 ph
 		<card>
 			<name>Treasure SOC</name>
 			<text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/78.png" num="8">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/78.png" num="9">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1342,7 +1342,7 @@ Sacrifice Miss Guidance: Creatures you control with base power or toughness 3 ph
 		<card>
 			<name>Ox SOC</name>
 			<text>When this creature dies, create a Food token.</text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/79.png" num="4">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/79.png" num="5">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1375,7 +1375,7 @@ Sacrifice Miss Guidance: Creatures you control with base power or toughness 3 ph
 		<card>
 			<name>Clue SOC</name>
 			<text>{2}, Sacrifice this artifact: Draw a card.</text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/81.png" num="6">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/81.png" num="7">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1391,7 +1391,7 @@ Sacrifice Miss Guidance: Creatures you control with base power or toughness 3 ph
 			<name>Bug Construct SOC</name>
 			<text>This creature can&apos;t block.
 At the beginning of your upkeep, you lose 1 life.</text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/82.png" num="5">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/82.png" num="6">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1407,7 +1407,7 @@ At the beginning of your upkeep, you lose 1 life.</text>
 		<card>
 			<name>Family Business</name>
 			<text>Search your library for up to X cards with the same name as target creature you control, reveal them, put them into your hand, then shuffle.</text>
-			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/83.png" num="53">SOC</set>
+			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/83.png" num="62">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1424,7 +1424,7 @@ At the beginning of your upkeep, you lose 1 life.</text>
 			<name>Mob</name>
 			<text>This spell costs {1} less to cast for each land card in all graveyards.
 Menace, trample</text>
-			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/84.png" num="49">SOC</set>
+			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/84.png" num="56">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1441,7 +1441,7 @@ Menace, trample</text>
 		<card>
 			<name>Vibrant Cityscape</name>
 			<text>{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/85.png" num="89">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/85.png" num="101">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1456,7 +1456,7 @@ Menace, trample</text>
 			<name>The Society Initiative</name>
 			<text>Players can&apos;t search their libraries for land cards.
 Activated abilities of lands you don&apos;t control can&apos;t be activated unless they&apos;re mana abilities.</text>
-			<set rarity="mythic" picurl="https://degasthepink.github.io/sets/SOC-files/img/86.png" num="16">SOC</set>
+			<set rarity="mythic" picurl="https://degasthepink.github.io/sets/SOC-files/img/86.png" num="18">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1472,7 +1472,7 @@ Activated abilities of lands you don&apos;t control can&apos;t be activated unle
 		<card>
 			<name>Customs Officer</name>
 			<text>Whenever a player searches their library for the first time each turn, this creature deals 5 damage to that player.</text>
-			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/87.png" num="44">SOC</set>
+			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/87.png" num="51">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1507,7 +1507,7 @@ Activated abilities of lands you don&apos;t control can&apos;t be activated unle
 		<card>
 			<name>Reckless Impulse</name>
 			<text>Exile the top two cards of your library. Until the end of your next turn, you may play those cards.</text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/89.png" num="51">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/89.png" num="59">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1523,7 +1523,7 @@ Activated abilities of lands you don&apos;t control can&apos;t be activated unle
 		<card>
 			<name>Bright Cold Day</name>
 			<text>Exile target creature. Draw a card, then discard a card.</text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/90.png" num="31">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/90.png" num="35">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1539,7 +1539,7 @@ Activated abilities of lands you don&apos;t control can&apos;t be activated unle
 		<card>
 			<name>Midnight Jig</name>
 			<text>Exile target player&apos;s graveyard. If at least one creature card was exiled this way, create a Treasure token.</text>
-			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/91.png" num="73">SOC</set>
+			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/91.png" num="83">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1556,7 +1556,7 @@ Activated abilities of lands you don&apos;t control can&apos;t be activated unle
 			<name>Accident at Work</name>
 			<text>As an additional cost to cast this spell, you may sacrifice an artifact or land.
 Accident at Work deals 2 damage to any target. If the additional cost was paid and a creature dealt damage this way would die this turn, exile it instead.</text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/92.png" num="40">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/92.png" num="47">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1570,13 +1570,14 @@ Accident at Work deals 2 damage to any target. If the additional cost was paid a
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Night Operator</name>
-			<text>As long as it&apos;s not your turn, spells you cast cost {1} less to cast.</text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/93.png" num="23">SOC</set>
+			<name>Night Watchman</name>
+			<text>Vigilance
+As long as it&apos;s not your turn, spells you cast cost {1} less to cast.</text>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/93.png" num="26">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Human ?</type>
+				<type>Creature — Human Soldier</type>
 				<maintype>Creature</maintype>
 				<manacost>2U</manacost>
 				<cmc>3</cmc>
@@ -1589,11 +1590,11 @@ Accident at Work deals 2 damage to any target. If the additional cost was paid a
 		<card>
 			<name>Bouncer</name>
 			<text>When this creature enters, return up to one target creature to its owner&apos;s hand.</text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/94.png" num="17">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/94.png" num="20">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Human ?</type>
+				<type>Creature — Human Citizen</type>
 				<maintype>Creature</maintype>
 				<manacost>4U</manacost>
 				<cmc>5</cmc>
@@ -1606,7 +1607,7 @@ Accident at Work deals 2 damage to any target. If the additional cost was paid a
 		<card>
 			<name>Street Hustler</name>
 			<text>Whenever you cast your first spell each turn, this creature can&apos;t be blocked this turn.</text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/95.png" num="26">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/95.png" num="29">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1625,7 +1626,7 @@ Accident at Work deals 2 damage to any target. If the additional cost was paid a
 			<text>Enchant creature
 When this enchantment enters, tap enchanted creature.
 Enchanted creature loses all abilities and doesn&apos;t untap during its controller&apos;s untap step.</text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/96.png" num="18">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/96.png" num="21">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1641,7 +1642,7 @@ Enchanted creature loses all abilities and doesn&apos;t untap during its control
 		<card>
 			<name>Seeds of Violence</name>
 			<text>Target creature gets -2/-2 until end of turn. It gets an additional -1/-1 until end of turn for each land card in all graveyards.</text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/97.png" num="37">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/97.png" num="43">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1657,7 +1658,7 @@ Enchanted creature loses all abilities and doesn&apos;t untap during its control
 		<card>
 			<name>Prospector</name>
 			<text>When this creature enters, target player mills three cards, that player loses 1 life for each land card milled this way.</text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/98.png" num="36">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/98.png" num="42">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1672,11 +1673,11 @@ Enchanted creature loses all abilities and doesn&apos;t untap during its control
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name></name>
+			<name>Asset Valuation</name>
 			<text>Choose one —
 • Return target creature card from your graveyard to hand.
 • Draw two cards. You lose 2 life.</text>
-			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/99.png" num="30">SOC</set>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/99.png" num="34">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1694,7 +1695,7 @@ Enchanted creature loses all abilities and doesn&apos;t untap during its control
 			<text>Ward— Pay 3 life (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player Pay 3 life.)
 Whenever one or more cards are exiled from anywhere for the first time each turn, exile the top card of your library. You may play that card for as long as it remains exiled. 
 At the beginning of your end step, if there are cards exiled with Broker, put those cards into your graveyard and create a Treasure token.</text>
-			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/100.png" num="43">SOC</set>
+			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/100.png" num="50">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1713,7 +1714,7 @@ At the beginning of your end step, if there are cards exiled with Broker, put th
 			<text>Landfall — Whenever a land you control enters, mill a card.
 {T}: Add {R} or {G}.
 {2},{T}: Add X mana in any combination of color, where X is the number of land cards in all graveyards.</text>
-			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/101.png" num="74">SOC</set>
+			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/101.png" num="84">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1726,6 +1727,232 @@ At the beginning of your end step, if there are cards exiled with Broker, put th
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Justice Prevailed</name>
+			<text>Choose one — 
+• Remove target attacking or blocking creature from combat.
+• Destroy target attacking creature.</text>
+			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/102.png" num="10">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mister Trick, Bending the Rules</name>
+			<text>If you would choose one or more modes for a spell or triggered ability you control, you may pay {1}. If you do, choose an additional mode, following any other restrictions of that modal spell or ability.</text>
+			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/103.png" num="89">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>WW/BB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Transgenerational Trauma</name>
+			<text>Target player discards a card.
+Whenever a land card is put into a graveyard from anywhere, you may pay {1}{B}. If you do, return Transgenerational Trauma from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/104.png" num="46">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>[OFF] Professional Critic</name>
+			<text>Menace
+If Professional Critic would deal combat damage to a player, that player may have you create a tapped Treasure token. If they do, prevent that damage.</text>
+			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/105.png" num="33">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Newcomer</name>
+			<text>When Newcomer enters, you may discard a card. If you do, draw a card.</text>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/106.png" num="57">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>B-Collect</name>
+			<text>When B-Collect enters, you may return target land card from your graveyard to your hand. If you don&apos;t, untap up to one land.</text>
+			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/107.png" num="60">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rot Converter</name>
+			<text>Whenever a card is put into your graveyard from your library, you may exile that card from your graveyard.
+{2}, {T}: Surveil 2.
+{T}: Put a card exiled with Rot Converter into its owner&apos;s graveyard. If it&apos;s a land card, you may play an additional land from your graveyard this turn. If it&apos;s a nonland card, amass Rot 2.</text>
+			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/108.png" num="68">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Society&apos;s Contract</name>
+			<text>When this artifact enters, search your library for a basic land card, reveal it, put it onto the battlefield tapped, then shuffle.
+You and other permanents you control have ward {1}.
+Whenever you search your library for the second time each turn, sacrifice this artifact. Skip your next untap step.</text>
+			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/109.png" num="90">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Medical Assistant</name>
+			<text>When this creature enters, create a Blood token. (It&apos;s an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this token: Draw a card.&quot;)
+Whenever a creature you control dies, you may sacrifice an artifact. If you do, draw a card.</text>
+			<set rarity="uncommon" picurl="https://degasthepink.github.io/sets/SOC-files/img/110.png" num="38">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Doctor</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>No Waste Policy</name>
+			<text>Whenever a land card leaves your graveyard, add {B}.
+Whenever a creature card leaves your graveyard, create a Blood token. (It&apos;s an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this token: Draw a card.&quot;)
+Whenever a noncreature, nonland card leaves your graveyard, each opponent loses 1 life.</text>
+			<set rarity="rare" picurl="https://degasthepink.github.io/sets/SOC-files/img/111.png" num="41">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Disenchant</name>
+			<text>Destroy target artifact or enchantment.</text>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/112.png" num="7">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vigilante</name>
+			<text>Flash
+First strike, protection from black (This creature can&apos;t be blocked, targeted, dealt damage, enchanted, or equipped by anything black.)</text>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/113.png" num="19">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rot Army SOC</name>
+			<text></text>
+			<set rarity="common" picurl="https://degasthepink.github.io/sets/SOC-files/img/114.png" num="4">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Rot Army</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
