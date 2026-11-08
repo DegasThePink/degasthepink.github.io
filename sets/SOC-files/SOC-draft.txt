@@ -5,7 +5,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
-			"collector_number": "17",
+			"collector_number": "19",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/0.png"
 			}
@@ -15,7 +15,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
-			"collector_number": "32",
+			"collector_number": "41",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/1.png"
 			}
@@ -25,7 +25,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
 			"type": "Legendary Creature — Human Advisor",
-			"collector_number": "39",
+			"collector_number": "52",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/2.png"
 			}
@@ -35,7 +35,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment",
-			"collector_number": "45",
+			"collector_number": "59",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/3.png"
 			}
@@ -45,7 +45,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment — Saga",
-			"collector_number": "54",
+			"collector_number": "71",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/4.png"
 			}
@@ -55,7 +55,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
-			"collector_number": "61",
+			"collector_number": "79",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/5.png"
 			}
@@ -65,7 +65,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
 			"type": "Enchantment",
-			"collector_number": "69",
+			"collector_number": "90",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/6.png"
 			}
@@ -75,7 +75,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "78",
+			"collector_number": "101",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/7.png"
 			}
@@ -85,7 +85,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Creature — Human Citizen",
-			"collector_number": "85",
+			"collector_number": "109",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/8.png"
 			}
@@ -95,7 +95,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "87",
+			"collector_number": "111",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/9.png"
 			}
@@ -105,7 +105,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "48",
+			"collector_number": "64",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/10.png"
 			}
@@ -115,7 +115,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Creature — Human Rogue Artificer",
-			"collector_number": "81",
+			"collector_number": "104",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/11.png"
 			}
@@ -135,7 +135,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "22",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/13.png"
 			}
@@ -145,7 +145,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "44",
+			"collector_number": "58",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/14.png"
 			}
@@ -155,7 +155,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "28",
+			"collector_number": "36",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/15.png"
 			}
@@ -165,7 +165,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Enchantment",
-			"collector_number": "53",
+			"collector_number": "70",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/16.png"
 			}
@@ -175,7 +175,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "106",
+			"collector_number": "131",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/17.png"
 			}
@@ -185,7 +185,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "103",
+			"collector_number": "128",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/18.png"
 			}
@@ -195,7 +195,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "105",
+			"collector_number": "130",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/19.png"
 			}
@@ -205,7 +205,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "102",
+			"collector_number": "127",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/20.png"
 			}
@@ -215,7 +215,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "104",
+			"collector_number": "129",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/21.png"
 			}
@@ -225,7 +225,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "3",
+			"collector_number": "2",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/22.png"
 			}
@@ -235,7 +235,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Saga",
-			"collector_number": "25",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/23.png"
 			}
@@ -245,7 +245,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "64",
+			"collector_number": "82",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/24.png"
 			}
@@ -253,9 +253,9 @@
 		{
 			"name": "Small Talk",
 			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "4",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/25.png"
 			}
@@ -265,7 +265,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "36",
+			"collector_number": "47",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/26.png"
 			}
@@ -275,7 +275,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "5",
+			"collector_number": "3",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/27.png"
 			}
@@ -285,7 +285,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Human Advisor",
-			"collector_number": "55",
+			"collector_number": "72",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/28.png"
 			}
@@ -295,7 +295,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Creature — Human Noble",
-			"collector_number": "40",
+			"collector_number": "53",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/29.png"
 			}
@@ -305,7 +305,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Legendary Creature — Human Citizen",
-			"collector_number": "73",
+			"collector_number": "94",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/30.png"
 			}
@@ -315,7 +315,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Legendary Creature — Human Citizen",
-			"collector_number": "24",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/31.png"
 			}
@@ -325,7 +325,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Instant",
-			"collector_number": "80",
+			"collector_number": "103",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/32.png"
 			}
@@ -335,7 +335,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "96",
+			"collector_number": "121",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/33.png"
 			}
@@ -345,7 +345,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "92",
+			"collector_number": "116",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/34.png"
 			}
@@ -355,7 +355,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "93",
+			"collector_number": "117",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/35.png"
 			}
@@ -365,7 +365,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "95",
+			"collector_number": "120",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/36.png"
 			}
@@ -375,7 +375,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "98",
+			"collector_number": "123",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/37.png"
 			}
@@ -385,7 +385,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "99",
+			"collector_number": "124",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/38.png"
 			}
@@ -395,7 +395,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "94",
+			"collector_number": "119",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/39.png"
 			}
@@ -405,7 +405,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "91",
+			"collector_number": "115",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/40.png"
 			}
@@ -415,7 +415,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "100",
+			"collector_number": "125",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/41.png"
 			}
@@ -425,7 +425,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "97",
+			"collector_number": "122",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/42.png"
 			}
@@ -435,7 +435,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}",
 			"type": "Legendary Creature — Human Performer",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/43.png"
 			}
@@ -445,7 +445,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/44.png"
 			}
@@ -455,7 +455,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "58",
+			"collector_number": "75",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/45.png"
 			}
@@ -465,7 +465,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Enchantment",
-			"collector_number": "2",
+			"collector_number": "1",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/46.png"
 			}
@@ -485,7 +485,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "52",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/48.png"
 			}
@@ -495,7 +495,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "49",
+			"collector_number": "65",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/49.png"
 			}
@@ -505,7 +505,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Peasant",
-			"collector_number": "70",
+			"collector_number": "91",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/50.png"
 			}
@@ -515,7 +515,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Human Peasant",
-			"collector_number": "67",
+			"collector_number": "86",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/51.png"
 			}
@@ -525,7 +525,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "65",
+			"collector_number": "83",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/52.png"
 			}
@@ -533,9 +533,9 @@
 		{
 			"name": "Afterthoughts",
 			"rarity": "uncommon",
-			"mana_cost": "",
+			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
-			"collector_number": "1",
+			"collector_number": "22",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/53.png"
 			}
@@ -545,7 +545,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Enchantment",
-			"collector_number": "6",
+			"collector_number": "5",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/54.png"
 			}
@@ -555,7 +555,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Legendary Artifact Creature — Robot Advisor",
-			"collector_number": "77",
+			"collector_number": "100",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/55.png"
 			}
@@ -565,7 +565,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "88",
+			"collector_number": "112",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/56.png"
 			}
@@ -575,7 +575,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Dog",
-			"collector_number": "63",
+			"collector_number": "81",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/57.png"
 			}
@@ -585,7 +585,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Creature — Human Noble Spy",
-			"collector_number": "79",
+			"collector_number": "102",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/58.png"
 			}
@@ -595,7 +595,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "75",
+			"collector_number": "98",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/59.png"
 			}
@@ -605,7 +605,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "76",
+			"collector_number": "99",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/60.png"
 			}
@@ -615,7 +615,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Artifact Creature — Bird",
-			"collector_number": "30",
+			"collector_number": "39",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/61.png"
 			}
@@ -625,7 +625,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "74",
+			"collector_number": "97",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/62.png"
 			}
@@ -635,7 +635,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/63.png"
 			}
@@ -645,7 +645,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Legendary Creature — Human Performer",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/64.png"
 			}
@@ -655,7 +655,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{G}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "66",
+			"collector_number": "85",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/65.png"
 			}
@@ -665,7 +665,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Lizard",
-			"collector_number": "71",
+			"collector_number": "92",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/66.png"
 			}
@@ -675,7 +675,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "37",
+			"collector_number": "49",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/67.png"
 			}
@@ -691,11 +691,11 @@
 			}
 		},
 		{
-			"name": "Undercover Investigator",
+			"name": "Investigator",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Human Detective",
-			"collector_number": "31",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/69.png"
 			}
@@ -705,7 +705,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Human Advisor",
-			"collector_number": "23",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/70.png"
 			}
@@ -715,7 +715,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Scientist",
-			"collector_number": "72",
+			"collector_number": "93",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/71.png"
 			}
@@ -725,7 +725,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Creature — Human Scout",
-			"collector_number": "86",
+			"collector_number": "110",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/72.png"
 			}
@@ -735,7 +735,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment",
-			"collector_number": "27",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/73.png"
 			}
@@ -745,7 +745,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "82",
+			"collector_number": "105",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/74.png"
 			}
@@ -755,7 +755,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/75.png"
 			}
@@ -775,7 +775,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Food",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/77.png"
 			}
@@ -785,7 +785,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/78.png"
 			}
@@ -815,7 +815,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Clue",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/81.png"
 			}
@@ -825,7 +825,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Bug Construct",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/82.png"
 			}
@@ -835,7 +835,7 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "62",
+			"collector_number": "80",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/83.png"
 			}
@@ -845,7 +845,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{6}{R}{R}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "56",
+			"collector_number": "73",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/84.png"
 			}
@@ -855,7 +855,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "101",
+			"collector_number": "126",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/85.png"
 			}
@@ -865,7 +865,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Enchantment",
-			"collector_number": "18",
+			"collector_number": "20",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/86.png"
 			}
@@ -875,7 +875,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "51",
+			"collector_number": "67",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/87.png"
 			}
@@ -895,7 +895,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "59",
+			"collector_number": "76",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/89.png"
 			}
@@ -905,7 +905,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Instant",
-			"collector_number": "35",
+			"collector_number": "46",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/90.png"
 			}
@@ -915,7 +915,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "Instant",
-			"collector_number": "83",
+			"collector_number": "106",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/91.png"
 			}
@@ -925,7 +925,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "47",
+			"collector_number": "63",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/92.png"
 			}
@@ -935,7 +935,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "26",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/93.png"
 			}
@@ -945,7 +945,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "20",
+			"collector_number": "23",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/94.png"
 			}
@@ -955,7 +955,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "29",
+			"collector_number": "38",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/95.png"
 			}
@@ -965,7 +965,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "21",
+			"collector_number": "24",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/96.png"
 			}
@@ -975,7 +975,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "43",
+			"collector_number": "57",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/97.png"
 			}
@@ -985,7 +985,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "42",
+			"collector_number": "55",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/98.png"
 			}
@@ -995,7 +995,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "34",
+			"collector_number": "45",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/99.png"
 			}
@@ -1005,7 +1005,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Human Spy",
-			"collector_number": "50",
+			"collector_number": "66",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/100.png"
 			}
@@ -1015,7 +1015,7 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{G}",
 			"type": "Legendary Creature — Raccoon",
-			"collector_number": "84",
+			"collector_number": "107",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/101.png"
 			}
@@ -1035,7 +1035,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{W/B}{B}",
 			"type": "Legendary Creature — Human Advisor",
-			"collector_number": "89",
+			"collector_number": "113",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/103.png"
 			}
@@ -1045,7 +1045,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "46",
+			"collector_number": "60",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/104.png"
 			}
@@ -1055,7 +1055,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{B}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "33",
+			"collector_number": "43",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/105.png"
 			}
@@ -1065,7 +1065,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "57",
+			"collector_number": "74",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/106.png"
 			}
@@ -1075,7 +1075,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Artifact Creature — Robot",
-			"collector_number": "60",
+			"collector_number": "78",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/107.png"
 			}
@@ -1085,7 +1085,7 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Artifact",
-			"collector_number": "68",
+			"collector_number": "89",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/108.png"
 			}
@@ -1095,7 +1095,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Artifact",
-			"collector_number": "90",
+			"collector_number": "114",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/109.png"
 			}
@@ -1105,7 +1105,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Doctor",
-			"collector_number": "38",
+			"collector_number": "51",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/110.png"
 			}
@@ -1115,7 +1115,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment",
-			"collector_number": "41",
+			"collector_number": "54",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/111.png"
 			}
@@ -1132,10 +1132,10 @@
 		},
 		{
 			"name": "Vigilante",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Creature — Human Knight",
-			"collector_number": "19",
+			"collector_number": "21",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/113.png"
 			}
@@ -1148,6 +1148,266 @@
 			"collector_number": "4",
 			"image_uris": {
 				"en": "https://degasthepink.github.io/sets/SOC-files/img/114.png"
+			}
+		},
+		{
+			"name": "Undercover Boss",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://degasthepink.github.io/sets/SOC-files/img/115.png"
+			}
+		},
+		{
+			"name": "Mister Boss, Chief of Staff",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Legendary Creature — Human Noble Advisor",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://degasthepink.github.io/sets/SOC-files/img/116.png"
+			}
+		},
+		{
+			"name": "Unclaimed Favor",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://degasthepink.github.io/sets/SOC-files/img/117.png"
+			}
+		},
+		{
+			"name": "Divorce Settlement",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://degasthepink.github.io/sets/SOC-files/img/118.png"
+			}
+		},
+		{
+			"name": "Community Guard",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://degasthepink.github.io/sets/SOC-files/img/119.png"
+			}
+		},
+		{
+			"name": "Breach of Contract",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Instant",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://degasthepink.github.io/sets/SOC-files/img/120.png"
+			}
+		},
+		{
+			"name": "Trial of a Lifetime",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://degasthepink.github.io/sets/SOC-files/img/121.png"
+			}
+		},
+		{
+			"name": "Routine Check",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://degasthepink.github.io/sets/SOC-files/img/122.png"
+			}
+		},
+		{
+			"name": "[OFF] Ongoing Blackmail",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://degasthepink.github.io/sets/SOC-files/img/123.png"
+			}
+		},
+		{
+			"name": "Stand-Ins",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://degasthepink.github.io/sets/SOC-files/img/124.png"
+			}
+		},
+		{
+			"name": "Line Worker",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://degasthepink.github.io/sets/SOC-files/img/125.png"
+			}
+		},
+		{
+			"name": "Warehouse Worker",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://degasthepink.github.io/sets/SOC-files/img/126.png"
+			}
+		},
+		{
+			"name": "Librarian",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://degasthepink.github.io/sets/SOC-files/img/127.png"
+			}
+		},
+		{
+			"name": "Provocateur",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Spy",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://degasthepink.github.io/sets/SOC-files/img/128.png"
+			}
+		},
+		{
+			"name": "Arbitrator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://degasthepink.github.io/sets/SOC-files/img/129.png"
+			}
+		},
+		{
+			"name": "Field Coordinator",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://degasthepink.github.io/sets/SOC-files/img/130.png"
+			}
+		},
+		{
+			"name": "Flourishing Index",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://degasthepink.github.io/sets/SOC-files/img/131.png"
+			}
+		},
+		{
+			"name": "Excess Force",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}",
+			"type": "Instant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://degasthepink.github.io/sets/SOC-files/img/132.png"
+			}
+		},
+		{
+			"name": "Zeppelin",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://degasthepink.github.io/sets/SOC-files/img/133.png"
+			}
+		},
+		{
+			"name": "Pyrotechnician",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://degasthepink.github.io/sets/SOC-files/img/134.png"
+			}
+		},
+		{
+			"name": "Chief Instructor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://degasthepink.github.io/sets/SOC-files/img/135.png"
+			}
+		},
+		{
+			"name": "Jamming",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://degasthepink.github.io/sets/SOC-files/img/136.png"
+			}
+		},
+		{
+			"name": "Painter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Performer",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://degasthepink.github.io/sets/SOC-files/img/137.png"
+			}
+		},
+		{
+			"name": "The Hanok Reserve",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://degasthepink.github.io/sets/SOC-files/img/138.png"
+			}
+		},
+		{
+			"name": "Lumberjack",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://degasthepink.github.io/sets/SOC-files/img/139.png"
+			}
+		},
+		{
+			"name": "Blood",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Blood",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://degasthepink.github.io/sets/SOC-files/img/140.png"
 			}
 		}
 	]
@@ -1182,6 +1442,11 @@
 	2 Mister Trick, Bending the Rules
 	2 Rot Converter
 	2 No Waste Policy
+	1 Mister Boss, Chief of Staff
+	2 Divorce Settlement
+	2 [OFF] Ongoing Blackmail
+	1 Jamming
+	2 The Hanok Reserve
 [uncommon(3)]
 	4 Social Contract
 	4 Social Pressure
@@ -1203,7 +1468,7 @@
 	4 Clerk
 	4 Salaryman
 	4 Moral Crusader
-	4 Undercover Investigator
+	4 Investigator
 	4 Reporter
 	4 Propaganda
 	4 Inspector
@@ -1216,6 +1481,15 @@
 	4 B-Collect
 	4 The Society's Contract
 	4 Medical Assistant
+	4 Vigilante
+	4 Breach of Contract
+	4 Trial of a Lifetime
+	4 Stand-Ins
+	4 Arbitrator
+	4 Field Coordinator
+	4 Excess Force
+	4 Chief Instructor
+	4 Painter
 [common(6)]
 	8 Antisocial
 	8 Life Coach
@@ -1255,7 +1529,18 @@
 	8 Asset Valuation
 	8 Newcomer
 	8 Disenchant
-	8 Vigilante
+	8 Undercover Boss
+	8 Unclaimed Favor
+	8 Community Guard
+	8 Routine Check
+	8 Line Worker
+	8 Warehouse Worker
+	8 Librarian
+	8 Provocateur
+	8 Flourishing Index
+	8 Zeppelin
+	8 Pyrotechnician
+	8 Lumberjack
 [common | masterpiece(1)]
 	8 Antisocial
 	8 Life Coach
@@ -1295,7 +1580,18 @@
 	8 Asset Valuation
 	8 Newcomer
 	8 Disenchant
-	8 Vigilante
+	8 Undercover Boss
+	8 Unclaimed Favor
+	8 Community Guard
+	8 Routine Check
+	8 Line Worker
+	8 Warehouse Worker
+	8 Librarian
+	8 Provocateur
+	8 Flourishing Index
+	8 Zeppelin
+	8 Pyrotechnician
+	8 Lumberjack
 [foil(1)]
 	6 Social Contract
 	2 We Made a Sequel
@@ -1361,7 +1657,7 @@
 	12 Specimen #87
 	2 Embedded Saboteur
 	2 Idol
-	6 Undercover Investigator
+	6 Investigator
 	2 Miss Guidance, Preparing Tomorrow
 	2 Veterinarian
 	6 Reporter
@@ -1397,7 +1693,32 @@
 	6 Medical Assistant
 	2 No Waste Policy
 	12 Disenchant
-	12 Vigilante
+	6 Vigilante
+	12 Undercover Boss
+	1 Mister Boss, Chief of Staff
+	12 Unclaimed Favor
+	2 Divorce Settlement
+	12 Community Guard
+	6 Breach of Contract
+	6 Trial of a Lifetime
+	12 Routine Check
+	2 [OFF] Ongoing Blackmail
+	6 Stand-Ins
+	12 Line Worker
+	12 Warehouse Worker
+	12 Librarian
+	12 Provocateur
+	6 Arbitrator
+	6 Field Coordinator
+	12 Flourishing Index
+	6 Excess Force
+	12 Zeppelin
+	12 Pyrotechnician
+	6 Chief Instructor
+	1 Jamming
+	6 Painter
+	2 The Hanok Reserve
+	12 Lumberjack
 [wildcard(1)]
 	15 Social Contract
 	7 We Made a Sequel
@@ -1463,7 +1784,7 @@
 	6 Specimen #87
 	7 Embedded Saboteur
 	7 Idol
-	15 Undercover Investigator
+	15 Investigator
 	7 Miss Guidance, Preparing Tomorrow
 	7 Veterinarian
 	15 Reporter
@@ -1499,4 +1820,29 @@
 	15 Medical Assistant
 	7 No Waste Policy
 	6 Disenchant
-	6 Vigilante
+	15 Vigilante
+	6 Undercover Boss
+	4 Mister Boss, Chief of Staff
+	6 Unclaimed Favor
+	7 Divorce Settlement
+	6 Community Guard
+	15 Breach of Contract
+	15 Trial of a Lifetime
+	6 Routine Check
+	7 [OFF] Ongoing Blackmail
+	15 Stand-Ins
+	6 Line Worker
+	6 Warehouse Worker
+	6 Librarian
+	6 Provocateur
+	15 Arbitrator
+	15 Field Coordinator
+	6 Flourishing Index
+	15 Excess Force
+	6 Zeppelin
+	6 Pyrotechnician
+	15 Chief Instructor
+	4 Jamming
+	15 Painter
+	7 The Hanok Reserve
+	6 Lumberjack

@@ -1,4 +1,110 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Investigator added.
+Undercover Boss added.
+Mister Boss, Chief of Staff added.
+Unclaimed Favor added.
+Divorce Settlement added.
+Community Guard added.
+Breach of Contract added.
+Trial of a Lifetime added.
+Routine Check added.
+[OFF] Ongoing Blackmail added.
+Stand-Ins added.
+Line Worker added.
+Warehouse Worker added.
+Librarian added.
+Provocateur added.
+Arbitrator added.
+Field Coordinator added.
+Flourishing Index added.
+Excess Force added.
+Zeppelin added.
+Pyrotechnician added.
+Chief Instructor added.
+Jamming added.
+Painter added.
+The Hanok Reserve added.
+Lumberjack added.
+Blood added.
+
+Undercover Investigator removed.
+
+Global Warming
+flavor_text: [i]“They knew, and still...”[/i] => [i]They knew, and still...[/i]
+
+Small Talk
+type:  => Instant
+cost:  => {1}{W}
+rules_text:  => Up to two target creatures get +1/+2 until end of turn. Scry 1.
+flavor_text: [i][/i] => [i]Love.[/i]
+artist:  => Thomas Gainsborough
+
+Afterthoughts
+cost:  => {1}{U}{U}
+rules_text: Counter target spell. => As an additional cost to cast this spell, you may sacrifice an artifact.
+Counter target spell. If the additional cost was paid, tap or untap target permanent.
+
+E-Collect, Groundkeeper
+
+Idol
+rules_text: Other creatures you control get +1/+1.
+When Idol dies, if it was a creature, players skip their next combat phase. Return it to the battlefield under its owner's control. It's an enchantment. => Other creatures you control get +1/+1.
+When Idol dies, if it was a creature, each players skip their next combat phase. Return it to the battlefield under its owner's control. It's an enchantment.
+
+Food
+artist:  => Anupam
+
+Treasure
+artist:  => N.C. Wyeth
+
+Ox
+artist:  => Julien Dupré
+
+Copy
+artist:  => Roger-Viollet
+
+Clue
+artist:  => Matt Zelonka
+
+Depersonalization Disorder
+flavor_text: [i][/i] => [i]“This whole masquerade... I can't.”[/i]
+
+Prospector
+artist:  => C.W. Jefferys
+
+Asset Valuation
+rules_text: Choose one —
+• Return target creature card from your graveyard to hand.
+• Draw two cards. You lose 2 life. => Choose one —
+• Return target creature card from your graveyard to your hand.
+• Draw two cards. You lose 2 life.
+
+Broker
+rules_text: Ward— Pay 3 life [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player Pay 3 life.)[/i]
+Whenever one or more cards are exiled from anywhere for the first time each turn, exile the top card of your library. You may play that card for as long as it remains exiled. 
+At the beginning of your end step, if there are cards exiled with Broker, put those cards into your graveyard and create a Treasure token. => Ward—Pay 3 life [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)[/i]
+Whenever one or more cards are exiled from anywhere for the first time each turn, exile the top card of your library. You may play that card for as long as it remains exiled. 
+At the beginning of your end step, if there are cards exiled with Broker, put those cards into your graveyard and create a Treasure token.
+
+The Society's Contract
+rules_text: When this artifact enters, search your library for a basic land card, reveal it, put it onto the battlefield tapped, then shuffle.
+You and other permanents you control have ward {1}.
+Whenever you search your library for the second time each turn, sacrifice this artifact. Skip your next untap step. => When this artifact enters, search your library for a basic land card, reveal it, put it onto the battlefield tapped, then shuffle.
+You and other permanents you control have ward {1}.
+Whenever you search your library for more than one card or for the second time each turn, sacrifice this artifact. Skip your next untap step.
+
+Disenchant
+flavor_text: [i]“You won't need this anyway, why bother...”[/i] => [i]“Going from one world to another, this new reality might break some more than others.”[/i]
+artist:  => Om Sakthi
+
+Vigilante
+flavor_text: [i]I did not choose the blade... but the halberd.[/i] => [i]He did not choose the blade . . . but the halberd.[/i]
+artist:  => Daniel van den Queborne
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Night Watchman added.
