@@ -1,4 +1,36 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Coercion Agent added.
+Housewife added.
+Crunch added.
+Playful Ambush added.
+Fireworks added.
+Human added.
+Tampered Goods added.
+Birthday Prep added.
+Moving In added.
+
+
+Market Research
+
+Human Soldier
+artist:  => Raphael Tuck & Sons
+
+Human
+artist:  => Elin Danielson-Gambogi
+
+Accident at Work
+cost: {R} => {2}{R}
+rules_text: As an additional cost to cast this spell, you may sacrifice an artifact or land.
+Accident at Work deals 2 damage to any target. If the additional cost was paid and a creature dealt damage this way would die this turn, exile it instead. => As an additional cost to cast this spell, you may sacrifice an artifact or land.
+Accident at Work deals 4 damage to target creature. If the additional cost was paid and a creature dealt damage this way would die this turn, exile it instead.
+
+Divorce Settlement
+cost: {2}{B} => {3}{B}
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Investigator added.
