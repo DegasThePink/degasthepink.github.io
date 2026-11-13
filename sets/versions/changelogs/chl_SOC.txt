@@ -1,4 +1,153 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+State Court added.
+Forbidden Equation added.
+Neighborhood Watch added.
+Troublemaker added.
+Reclamation Effort added.
+Restoration Mandate added.
+Set the Stage added.
+Monument to Humanity added.
+Courier added.
+Spokesman added.
+Union Workers added.
+Medic added.
+Undertaker added.
+Echo Chamber added.
+The Old Fashioned Way added.
+Conflict of Interest added.
+Site Mover added.
+Covering the Sky added.
+Sabotage added.
+Price of Oversight added.
+Publisher added.
+Air Patrol added.
+Reserve Guard added.
+Carrion Serpent added.
+Extortionist added.
+Gardener added.
+Repurpose added.
+Hearts for Humanity added.
+Repairman added.
+Worker Solidarity added.
+Landlord added.
+Control the Narrative added.
+White Collar added.
+
+Old Courthouse removed.
+Impossible Equation removed.
+Community Guard removed.
+[OFF] Ongoing Blackmail removed.
+Provocateur removed.
+
+Night Shift
+type:  => Creature — Human Citizen
+cost:  => {1}{U}
+rules_text:  => You may cast Night Shift as though it had flash if you pay {1} more to cast it.
+When Night Shift enters, you may return another target creature you control to its owner's hand.
+pt:  => 2/2
+
+We Live in a Society
+type:  => Sorcery
+cost:  => {1}{B}{B}
+rules_text:  => Each creature gets -2/-2 until end of turn. Then each player loses 1 life for each creature they controlled that died this way.
+flavor_text: [i][/i] => [i]To those with little beyond its borders, reaching the Society meant the chance at a better life.[/i]
+
+Mister President, For Humanity
+rules_text: [i]Prosperity [/i]— If you control a creature, an artifact, and an enchantment, other creatures you control have ward—Pay 3 life [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)[/i]
+Sacrifice a creature: You gain 1 life and each opponent loses 1 life.
+Sacrifice an artifact: You lose 1 life and draw a card. => [i]Prosperity [/i]— If you control a creature, an artifact, and an enchantment, other creatures you control have ward—Pay 3 life
+Sacrifice a creature: You gain 1 life and each opponent loses 1 life.
+Sacrifice an artifact: You lose 1 life and draw a card.
+
+Soul Kitchen
+type: Land => Land — Forest Plains
+
+Central Park
+type: Land => Land — Forest Island
+
+Community College
+type: Land => Land — Plains Island
+flavor_text: [i][/i] => [i]Education was free. It was one of the first fundamental choices made while founding the Society.[/i]
+artist:  => Luke Martineau
+
+Trading Salon
+type: Land => Land — Forest Mountain
+
+Undercity Tunnels
+type: Land => Land — Island Swamp
+flavor_text: [i][/i] => [i]Few knew that the entire sewer network was connected to an electrical grid for maintenance.[/i]
+artist:  => Massimo Brunelli
+
+Logging Site
+type: Land => Land — Mountain Forest
+
+Brownfield Garden
+type: Land => Land — Swamp Forest
+
+Velvet Club
+type: Land => Land — Swamp Mountain
+
+Suburb Factory
+type: Land => Land — Mountain Plains
+
+Mister Famous, Humanity's Favorite
+artist: Falstaff => Adolf Falstaff
+
+Southfarthing Farmer
+pt: 2/3 => 2/2
+
+Afterthoughts
+
+Curator
+pt: 1/1 => 2/2
+
+Salaryman
+rules_text: Lifelink
+Whenever you prosper, draw a card. [i](You prosper when you cast a spell whose Prosperity condition is met.)[/i] => Lifelink
+Whenever you prosper, draw a card. [i](You prosper when you cast a spell with an ability that checks whether you control a creature, an artifact, and an enchantment, and you control all three.)[/i]
+
+Embedded Saboteur
+rules_text: Menace
+Whenever this creature deals combat damage to a player, that player creates a 0/1 colorless Bug Construct artifact creature token with “This token can't block” and “At the beginning of your upkeep, you lose 1 life.” => Menace
+Whenever this creature deals combat damage to a player, that player creates a 0/1 colorless Bug Construct artifact creature token with “This creature can't block” and “At the beginning of your upkeep, you lose 1 life.”
+
+Bug Construct
+artist:  => Jennifer Angus
+
+Bouncer
+artist:  => Ludwig Deutsch
+
+Street Hustler
+artist:  => Pierre Duval le Camus
+
+Broker
+rules_text: Ward—Pay 3 life [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)[/i]
+Whenever one or more cards are exiled from anywhere for the first time each turn, exile the top card of your library. You may play that card for as long as it remains exiled. 
+At the beginning of your end step, if there are cards exiled with Broker, put those cards into your graveyard and create a Treasure token. => Ward—Pay 3 life 
+Whenever one or more cards are exiled from anywhere for the first time each turn, exile the top card of your library. You may play that card for as long as it remains exiled. 
+At the beginning of your end step, if there are cards exiled with Broker, put those cards into your graveyard and create a Treasure token.
+
+Rot Army
+artist:  => Riccardo Bagnoli
+
+Mister Boss, Chief of Staff
+flavor_text: [i]“We have to move. The mob is out of control. Mister President's orders.”
+- Milie Boss[/i] => [i]“We have to move. The mob is out of control. Mister President's orders.”
+ — Milie Boss, founder[/i]
+
+Arbitrator
+artist:  => Erskine Nicol
+
+Zeppelin
+artist:  => Hans Rudolph Schultz
+
+Chief Instructor
+artist: Bombled => Louis Bombled
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Coercion Agent added.
